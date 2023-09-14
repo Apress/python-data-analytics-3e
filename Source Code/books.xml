@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<Catalog>
+   <Book id="ISBN9872122367564">
+      <Author>Ross, Mark</Author>
+      <Title>XML Cookbook</Title>
+      <Genre>Computer</Genre>
+      <Price>23.56</Price>
+      <PublishDate>2014-22-01</PublishDate>
+   </Book>
+   <Book id="ISBN9872122367564">
+      <Author>Bracket, Barbara</Author>
+      <Title>XML for Dummies</Title>
+      <Genre>Computer</Genre>
+      <Price>35.95</Price>
+      <PublishDate>2014-12-16</PublishDate>
+   </Book>
+</Catalog>
